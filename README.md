@@ -1,0 +1,1 @@
+# CustomArray МДК 0101
